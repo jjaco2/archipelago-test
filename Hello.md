@@ -4,7 +4,7 @@
 Hello and welcome to my test.
 
 - wow
-- ✨M
+- ✨
 
 ## Features
 
