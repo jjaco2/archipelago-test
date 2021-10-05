@@ -1,0 +1,3 @@
+root: ./archipelago-test
+structure:
+  readme: README.md
