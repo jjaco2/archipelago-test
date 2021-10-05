@@ -1,14 +1,15 @@
-# test
-## _test~~~_
+# test 2 -- son of test
+
+## *test~~~*
 
 Hello and welcome to my test.
 
-- wow
-- ✨M
+* wow
+* ✨M
 
 ## Features
 
-- yes
-- many
+* yes
+* many
 
 Markdown is my friend.
